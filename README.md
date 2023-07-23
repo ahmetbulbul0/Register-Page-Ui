@@ -1,4 +1,5 @@
 ![register_page_1366x768_poster](./git-images/register_page_1366x768_poster.png)
+![register_page_filled_1366x768_poster](./git-images/register_page_filled_1366x768_poster.png)
 
 # Ui-Register-Page
 
