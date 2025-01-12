@@ -1,20 +1,22 @@
-![register_page_1366x768_poster](./git-images/register_page_1366x768_poster.png)
-![register_page_filled_1366x768_poster](./git-images/register_page_filled_1366x768_poster.png)
+# Register-Page-Ui
 
-# Ui-Register-Page
+A sleek and functional registration page designed using HTML, CSS, JavaScript, jQuery, and Ionicons. This project provides an elegant interface with input fields for first name, last name, email, and password, enhanced with interactive icons for improved user experience.
 
-**_Ui Register Page Project_**
+The design is focused on simplicity and functionality, making it ideal for integration into web applications or as a standalone registration form. While it is not fully responsive, it serves as a solid foundation for further customization and development.
 
-## Technologies
+## Technologies (languages & frameworks)
 
-- **Html**
-- **Css**
-- **Js**
+- Html
+- Css
+- JavaScript
 
-## Packages/Libraries
+## Packages & Libraries
 
-- **Jquery**
-- **IonIcons**
-- **Google Fonts(Comfortaa)**
+- Jquery
+- IconIcons
+
+## Setup
+
+1. just open index.html file
 
 *Original Ui Design Link (Dribble):* *[https://dribbble.com/shots/16753965-Login-Sign-up-Dark-Mode-AW-Universal-Page](https://dribbble.com/shots/16753965-Login-Sign-up-Dark-Mode-AW-Universal-Page)*
